@@ -1,0 +1,6 @@
+module Pods_TVApp_TVAppTests {
+  umbrella header "Pods-TVApp-TVAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
